@@ -1,0 +1,11 @@
+{
+  "guildJsonMap": {
+    "your_guild_id": {
+      "memberRoleId": "put_role_id",
+      "chatGptRoleId": "put_role_id",
+      "premiumRoleId": "put_role_id",
+      "newChatOpenAiChannelId": "put_channel_id",
+      "aiCategoryId": "put_category_id"
+    }
+  }
+}
