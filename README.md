@@ -26,11 +26,11 @@ Atualmente, o Ares é um projeto privado que foi reconstruído em C# e se tornou
  
 Tudo isso podendo ser feito em um canal de texto privado. (No Discord)
 
-## Como Utilizar (Usuário)
+## Como Utilizar (Usuário) (Recente)
 
 1. [Adicione o Ares ao seu servidor](https://discord.com/oauth2/authorize?client_id=1278447277907644578&scope=bot&permissions=2147611664)
 
-## Como Utilizar (Desenvolvedor)
+## Como Utilizar (Desenvolvedor) (Antigo)
 
 1. Clone este repositório:
    ```sh
